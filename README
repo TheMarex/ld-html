@@ -1,0 +1,4 @@
+
+This small scripts prases html files generated with pandoc to allow you to link to sections contained in other html files.
+
+You simply supply the directory containing the html files as argument.
